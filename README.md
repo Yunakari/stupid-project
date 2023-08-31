@@ -1,0 +1,2 @@
+# stupid-project
+ฝึกคณิต
